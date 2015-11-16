@@ -1,0 +1,55 @@
+
+
+.opt-in-container {
+  display: block;
+  overflow: hidden;
+  width: 80%;
+  margin: 3em 10%;
+  border: 2px solid black;
+}
+
+
+.img {
+  width: 30%;
+  display: inline-block;
+  height:auto;
+}
+
+.brand-logo {
+  background-image: url("acmeBrandLogo.jpg");
+  width: 30%;
+  height: 0;
+  display: inline-block; 
+  background-size: contain;
+  background-repeat: no-repeat;
+  float: left;
+  padding-top: 20%;
+  margin: 1em 2.5%;
+
+}
+
+#first {
+  width: 40%;
+  margin-right: 10.5%;
+}
+
+#last {
+  width: 40%;
+}
+
+.input {
+  display: inline-block;
+  width: 60%;
+  float: left;
+  margin: 2em 2.5%;
+}
+
+#email {
+  width: 92.5%;
+  margin: 3em 0;
+}
+
+button {
+  margin: 1em 0;
+  width: 93.5%;
+}
